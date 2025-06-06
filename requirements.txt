@@ -1,0 +1,5 @@
+tkinter
+socket
+threading
+time
+json
